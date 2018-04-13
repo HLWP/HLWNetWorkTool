@@ -41,11 +41,6 @@
     }];
 }
 
--(void)update:(NSNotification *)notification{
-    
-}
-
-
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
